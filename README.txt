@@ -1,0 +1,1 @@
+Both Redis and Neo4J related queries are in the same project even though the project is named Neo4J.
